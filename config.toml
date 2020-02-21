@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://nevillenoah.netlify.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Neville Noah | Blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -81,16 +81,17 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
+AuthorName = "Neville Noah"
 description = "This is meta description"
 author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+# mobile = "0124857985320"
+email = "neville.noah.private@email.com"
+location = "Hangzhou, Zhejiang, China"
 # copyright
-copyright = "| @2019 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| @2019 [Neville](https://nevillenoah.github.com) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
