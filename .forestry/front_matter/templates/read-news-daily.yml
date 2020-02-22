@@ -2,3 +2,5 @@
 label: Read News Daily
 hide_body: false
 fields: []
+pages:
+- content/English/Read News Daliy/News.md
