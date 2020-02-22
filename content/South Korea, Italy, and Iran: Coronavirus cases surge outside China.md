@@ -1,9 +1,10 @@
 +++
+description = "Read News Day 1"
 draft = true
+thumbnail = "/uploads/mers.jpg"
+title = "South Korea, Italy, and Iran: Coronavirus cases surge outside China"
 
 +++
-# South Korea, Italy, and Iran: Coronavirus cases surge outside China
-
 南韩、意大利以及伊朗：中国境外的新型冠状病毒病例激增。
 
 Coronavirus cases have surged outside China, prompting other countries to adopt quarantine policies.
@@ -11,7 +12,7 @@ Coronavirus cases have surged outside China, prompting other countries to adopt 
 新型冠状病毒病例已经在中国境外激增，这促使其他国家采取隔离政策。
 
 * surge 激增
-* quarantine 隔离 
+* quarantine 隔离
 
 An increase in cases was reported across the Middle East and Asia this week, and some nations have begun shutting their borders to contain the infection.
 
