@@ -1,6 +1,7 @@
 +++
-description = ""
+description = "Read News Daily 1"
 draft = true
+image = "/uploads/mers.jpg"
 title = "South Korea, Italy, and Iran: Coronavirus cases surge outside China"
 
 +++
