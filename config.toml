@@ -82,7 +82,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Neville Noah"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
@@ -105,7 +105,7 @@ copyright = "| @2019 [Neville](https://nevillenoah.github.com) All Rights Reserv
 [params.newsletter]
 enable = true
 title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+content = "Everyone successful person all has experienced a period of time, and that is a time that has been paid a lot without anyreturn, which called \"Take Root\"!"
 
 ############################# social site ########################
 [[params.social]]
