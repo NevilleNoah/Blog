@@ -38,5 +38,19 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - post
+    - featured
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
 pages:
 - content/blog/south-korea-italy-and-iran-coronavirus-cases-surge-outside-china.md
