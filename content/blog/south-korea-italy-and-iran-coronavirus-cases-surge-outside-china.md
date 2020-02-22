@@ -1,6 +1,8 @@
 +++
+categories = ["Language", "English"]
 description = "Read News Daily 1"
 image = "/uploads/mers.jpg"
+tags = ["English"]
 title = "South Korea, Italy, and Iran: Coronavirus cases surge outside China"
 
 +++
