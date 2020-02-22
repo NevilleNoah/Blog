@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: Description
+pages:
+- content/blog/south-korea-italy-and-iran-coronavirus-cases-surge-outside-china.md
