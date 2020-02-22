@@ -21,5 +21,13 @@ fields:
   config:
     maxSize: 250
   label: Image
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
 pages:
 - content/blog/south-korea-italy-and-iran-coronavirus-cases-surge-outside-china.md
