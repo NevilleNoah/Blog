@@ -16,5 +16,10 @@ fields:
     schema:
       format: markdown
   label: Description
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 250
+  label: Thumbnail
 pages:
 - 'content/South Korea, Italy, and Iran: Coronavirus cases surge outside China.md'
