@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["English Translation"]
 date = 2020-02-21T16:00:00Z
 description = "Hope the tragedy will not repeat itself"
 draft = true
 image = "/uploads/mers.jpg"
-tags = []
+tags = ["English"]
 title = "South Korea, Italy, and Iran: Coronavirus cases surge outside China"
 
 +++
