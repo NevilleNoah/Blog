@@ -12,6 +12,7 @@ description: "this is meta description"
 # taxonomies
 categories: 
   - "Android And Gmaing"
+  - "Love"
 tags:
   - "Photos"
   - "Game"
