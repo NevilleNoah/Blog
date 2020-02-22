@@ -1,5 +1,5 @@
 ---
-label: Read News Daily
+label: Base
 hide_body: false
 fields:
 - name: title
