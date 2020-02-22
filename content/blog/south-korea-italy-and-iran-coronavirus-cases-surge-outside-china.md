@@ -5,6 +5,7 @@ description = "Hope the tragedy will not repeat itself."
 image = "/post/mers.jpg"
 tags = ["English"]
 title = "South Korea, Italy, and Iran: Coronavirus cases surge outside China"
+type = "featured"
 
 +++
 南韩、意大利以及伊朗：中国境外的新型冠状病毒病例激增。
