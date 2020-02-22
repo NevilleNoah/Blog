@@ -1,6 +1,20 @@
 ---
 label: Read News Daily
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
 pages:
 - 'content/South Korea, Italy, and Iran: Coronavirus cases surge outside China.md'
