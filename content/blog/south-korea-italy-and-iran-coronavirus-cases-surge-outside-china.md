@@ -1,5 +1,5 @@
 +++
-description = ""
+description = "Read News Day 1"
 thumbnail = ""
 title = "South Korea, Italy, and Iran: Coronavirus cases surge outside China"
 
