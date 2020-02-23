@@ -5,7 +5,7 @@ description = "Let you fully understand how to use C Pointer."
 image = "/images/post/c-programming-tutorial.png"
 tags = ["C/C++"]
 title = "C Pointer"
-type = "featured"
+type = "post"
 
 +++
 You may be immersed in pain due to C Pointer.
