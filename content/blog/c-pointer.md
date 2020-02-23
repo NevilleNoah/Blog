@@ -2,7 +2,7 @@
 categories = ["C/C++"]
 date = 2020-02-22T16:00:00Z
 description = "Let you fully understand how to use C Pointer."
-image = "/images/post/85728C9E-F81B-4E6E-9AED-FBD702AC58DE.png"
+image = "/images/post/c-programming-tutorial.png"
 tags = ["C/C++"]
 title = "C Pointer"
 type = "featured"
