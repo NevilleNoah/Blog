@@ -53,5 +53,6 @@ fields:
       path: 
   label: Type
 pages:
+- content/blog/c-pointer.md
 - content/blog/nasa-satellite-images-reveal-dramatic-melting-in-antarctica-after-record-heat-wave.md
 - content/blog/south-korea-italy-and-iran-coronavirus-cases-surge-outside-china.md
