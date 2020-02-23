@@ -104,5 +104,6 @@ Next, let us learn about loop:
         printf("%d", p[0]); // p[0] == *p == a[1]
         p = a + 6; // p point a[6]
         printf("%d", *p); // output 6 because a[6]==6
+        
         return 0;
     }
