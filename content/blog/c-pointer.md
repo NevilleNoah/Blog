@@ -9,7 +9,7 @@ title = "C Pointer"
 type = "post"
 
 +++
-You may be immersed in pain due to C Pointer. 
+You may be immersed in pain due to C Pointer.
 
 '*' and '&' baffle you?
 
@@ -55,3 +55,16 @@ We know the *** pointer** 's address because we defined it. But we don't know **
     printf("%d", &num);
 
 # Formal Parameter
+
+When we see a function like:
+
+    int * test(int * sum) {
+    	// execute something
+    }
+
+Don't fear it, it just tell us to input a pointer variables parameter, we can use it like this:
+
+    test(pointer); //Right!pointer is a pointer variables.
+    test(num); // Wrong!num is a ordinary variables.
+
+Of course, even you use **test(num)**, you may pass compilation because here our num's type is **int**, and it will be automatically converted to __int *__, but I won't recommend you to do it due to it is logically wrong unless you have some special goals need to use such way to achieve.
