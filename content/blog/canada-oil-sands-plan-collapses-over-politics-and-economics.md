@@ -2,7 +2,6 @@
 categories = ["English translation"]
 date = 2020-02-24T16:00:00Z
 description = "The unexpected withdrawal relieves Mr. Trudeau of a choice that was sure to anger environmentalists or energy interests, if not both."
-draft = true
 image = "/images/post/merlin_98743693_85db4504-fb1f-42cf-a1a2-d0d4cffe7633-superJumbo.jpg"
 tags = ["English"]
 title = "Canada Oil-Sands Plan Collapses Over Politics and Economics"
